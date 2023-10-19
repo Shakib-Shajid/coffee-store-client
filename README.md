@@ -1,8 +1,9 @@
-# React + Vite
+# React-Career-Fair
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 5 Features of my website
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. You can see all the food and beverage products.
+2. You can ask any question.
+3. There have Login and registration system.
+4. You need login to see details
+5. Use Private route for security.
